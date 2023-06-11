@@ -1,0 +1,54 @@
+body
+{
+	background-color: #F5B042;
+}
+form
+{
+	background-color: #8C6CA8;
+	margin: auto 700px;
+	padding: 50px;
+	padding-top: 10px; 
+  	border-radius: 6px;
+  	margin-top: 30px;
+
+}
+input
+{
+	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	width: 100%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+  	-webkit-transition: 0.5s;
+  	transition: 0.5s;
+  	outline: none;
+}
+
+label
+{
+	color: #F5B042;
+	font-family: 'Lilita One';
+
+}
+
+button
+{
+	width: 405px;
+	border-radius: 4px;
+    height: 50px;
+    background-color: #F58ADF;
+    border: solid black;    
+    outline: 1.5px solid white;
+    color: white;
+    cursor: pointer;
+    font-family: 'Lilita One';
+
+
+}
+
+h2
+{
+	color: #ABB9E0;
+	font-family: 'Lilita One';
+}
